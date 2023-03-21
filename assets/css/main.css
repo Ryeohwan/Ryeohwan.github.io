@@ -9,10 +9,7 @@ img {
   max-height: 100%;
 }
 
-.velog-icon{
-  width: 32px;
-  height: 32px;
-}
+
 
 .head {
 
@@ -106,6 +103,11 @@ img {
   font-size: 32px;
   font-size: 2rem;  
   margin: 0 5px;
+}
+
+.velog-icon{
+  width: 32px;
+  height: 32px;
 }
 
 .head-buttons a {
