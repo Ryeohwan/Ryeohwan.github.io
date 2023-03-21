@@ -9,6 +9,12 @@ img {
   max-height: 100%;
 }
 
+.velog-icon{
+  width: 32px;
+  height: 32px;
+  margin: 0 5px;
+}
+
 .head {
 
   color: #fff;
