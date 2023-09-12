@@ -11,7 +11,7 @@ order: 4
 ## 안려환 | Contact
 
 - **Email** | **[arh951019@gmail.com](mailto:arh951019@gmail.com)**
-- **Instagram | [https://www.instagram.com/5tsayo/](https://www.instagram.com/5tsayo/)**
+- **Instagram** | **[https://www.instagram.com/5tsayo/](https://www.instagram.com/5tsayo/)**
 - **Github** | **[https://github.com/Ryeohwan](https://github.com/Ryeohwan)**
 
 <img width="679" alt="Untitled" src="https://github.com/Ryeohwan/TRL/assets/73810834/94214ddf-2656-4d42-a21f-9e0c7540df9e">
